@@ -76,3 +76,5 @@ _Notes:_
 * Russian - native
 
 * English - A2
+
+![english](img\english.png)
