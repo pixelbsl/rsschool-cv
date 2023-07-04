@@ -77,4 +77,4 @@ _Notes:_
 
 * English - A2
 
-![english](img\english.png)
+![english](..\rsschool-cv\img\english.png)
