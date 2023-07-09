@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: #252525;
+    color: white;
+}
+
+header {
+    background-color: rgb(96, 83, 0);
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.navigation {
+    padding: 30px;
+}
+
+.navigation>a {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.avatar {
+    display: flex;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+img {
+    width: 15%;
+    border-radius: 15px;
+}
+
+.major {
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 100px;
+}
+
+.quote {
+    width: 30%;
+    padding-left: 100px;
+}
+
+#junior {
+    margin: 0 auto;
+}
+
+#contacts {
+    padding: 30px;
+}
+
+i {
+    color: grey;
+}
+
+.style {
+    list-style: none;
+}
+
+.social {
+    padding: 10px 0;
+}
+
+.linkedin {
+    color: white;
+}
+
+#about {
+    width: 55%;
+    padding: 30px;
+    line-height: 30px;
+}
+
+#learn,
+#english {
+    padding: 30px;
+}
+
+.frontend,
+.course,
+.en-test {
+    list-style-type: square;
+    padding-left: 15px;
+}
+
+.language,
+.rs,
+.en {
+    padding: 5px 0;
+}
+
+#code,
+#courses {
+    padding: 30px;
+}
+
+.test {
+    width: 40%;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(96, 83, 0);
+}
+
+.year {
+    display: flex;
+    list-style: none;
+    padding-left: 30px;
+    align-items: center;
+}
+
+.github>a {
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
+
+.rss {
+    width: 121px;
+    height: 50px;
+    margin: 20px 30px;
+    background-image: url(https://rs.school/images/rs_school_js.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
