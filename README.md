@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pixelbsl.github.io/rsschool-cv/cv
